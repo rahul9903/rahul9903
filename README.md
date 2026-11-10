@@ -15,18 +15,18 @@ Passionate Data & Analytics Engineer specializing in **Microsoft Fabric (Gen2)**
 
 ### 🚀 Featured Microsoft Fabric & Analytics Projects
 
-#### 🏇 [Cheltenham Festival 2026 Racing Intelligence Platform](https://github.com/rahu19903)
+#### 🏇 [Cheltenham Festival 2026 Racing Intelligence Platform]
 * **Architecture:** Microsoft Fabric Synapse Data Warehouse Gen2, Dataflow Gen2, and Direct Lake semantic model.
 * **Modeling:** Engineered a 6-table Star Schema (`Fact_Race_Runner`, `Dim_Date`, `Dim_Race`, `Dim_Trainer`, `Dim_Jockey`, `Dim_Horse`) tracking Grade 1 results, margins, and market prices.
 * **Analytics & DAX:** Implemented Level Stakes Profit/Loss (£1 LSP), dynamic trainer strike rates, and market outlier detection isolating high-value longshot winners.
 * **UI/UX:** Built an executive dark-themed Power BI console with dynamic spotlight cards and interactive cross-filtering.
 
-#### ⚽ [Real-Time Football Match Telemetry (FA Cup)](https://github.com/rahu19903)
+#### ⚽ [Real-Time Football Match Telemetry (FA Cup)]
 * **Architecture:** Fabric Real-Time Intelligence (KQL) and Lakehouse Medallion pipeline.
 * **Processing:** Ingested real-time spatial match events into Delta tables using PySpark to track player pitch coordinates ($105\text{m} \times 68\text{m}$) and cumulative Expected Goals (xG).
 * **Delivery:** Interactive tactical shape mapping and threat leaderboards delivered via Direct Lake mode with zero refresh lag.
 
-#### 🛡️ [In-Game Economy & Anti-Abuse Engine](https://github.com/rahu19903)
+#### 🛡️ [In-Game Economy & Anti-Abuse Engine]
 * **Architecture:** Fabric Data Warehouse and anomaly detection ML scoring pipeline.
 * **Mechanics:** Transaction ledger tracking, balance delta auditing, and behavioral abuse flagging across player micro-economies.
 
